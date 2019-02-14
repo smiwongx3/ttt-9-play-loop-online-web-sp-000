@@ -36,6 +36,7 @@ def turn(board)
 end
 
 def play(board)
+  turn_count = 0 
   
 end 
 
